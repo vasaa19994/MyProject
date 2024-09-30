@@ -1,0 +1,15 @@
+.test {
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+#header {
+    color: darkcyan;
+    text-align: center;
+}
+.test2 {
+    color: slategrey;
+    font-weight: bold;
+    text-align: center;
+}
